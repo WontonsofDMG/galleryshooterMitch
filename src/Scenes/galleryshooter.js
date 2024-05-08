@@ -27,7 +27,7 @@ class GalleryShooterGame extends Phaser.Scene {
             targets: this.background,
             angle: 360, 
             duration: 40000, 
-            repeat: -1, // Repeat indefinitely
+            repeat: -1, 
             yoyo: false 
         });
 
